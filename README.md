@@ -1,2 +1,0 @@
-# teaWebTechProject
-TEA WebTech Project 
